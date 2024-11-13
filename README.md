@@ -1,5 +1,6 @@
 
-# Pharmaceutical-Capsule-Sorting-and-Defect-Detection-System
+# Real-Time Object Sorting by Color and Defect Detection 
+
 
 This project aims to automate the sorting of medicine capsules based on their color and detect defects such as cracks or irregular shapes using machine learning techniques. Two methods are explored to achieve this: utilizing pre-trained machine learning models and training a Convolutional Neural Network (CNN) for custom capsule recognition.
 
